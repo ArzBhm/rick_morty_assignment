@@ -31,6 +31,7 @@ $ yarn start
 # yarn --version
 1.22.5
 
-##### IMPORTANT #####
-# Tsconfig.json configuration react-jsx error solution #
-Tsconfig.json   -->     cmd + shift + p     -->     type "Select TypeScript Version" --> -->    Use Workspace Version ...
+##### IMPORTANT #####   # Tsconfig.json configuration react-jsx error solution #
+After cloning the repo, in tsconfig.json file ("jsx": "react-jsx") there may be an error which would be fixed as follows:
+Tsconfig.json   -->     cmd + shift + p     -->     Type "Select TypeScript Version"   -->    Choose "Use Workspace Version ..."
+
